@@ -1,0 +1,7 @@
+= AsciiDoc Main Page
+
+[%noheader]
+|===
+|Page 1 |link:path1/adoc1.html[Link 1]
+|Page 2 |link:path1/adoc2.html[Link 2]
+|===
